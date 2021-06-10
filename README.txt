@@ -1,3 +1,4 @@
+
 git config --gloal username = xxx
 git config --gloal email = "xxx@email.com"
 git init 
@@ -56,3 +57,4 @@ git stash -pop
 
 
 git tag  "v1.2"   分支里添加标签
+
